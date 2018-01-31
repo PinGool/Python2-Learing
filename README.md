@@ -24,3 +24,9 @@
     字典dictionary
     集合set 
     
+    (Python2 的学习 Python2 Flask框架    
+    staic  静态资源    
+    templates  页面 c2.py 
+    Flask框架的初步学习      
+    页面的运行  程序的启动
+    manager.py   Flask 的命令)
